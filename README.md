@@ -5,7 +5,7 @@
 A recreation of the classic Pacman gameboard with CSS and a tiny bit of Tailwind.  I did this as an excercise to level up my CSS.  I ran into all sorts of unforseen challenges but one that stands out is recreating the games font.  Before starting I assumed I would be able to find a simple import but I was wrong.  So my solution was to recreate it with code using CSS Grid.
 
 
-![screenshot1](https://github.com/KKurzawa/ledzeppelin2/blob/main/public/Feb7.png)
+![screenshot1](https://github.com/KKurzawa/pacman-css/blob/main/public/Screenshot1.png)
 
 [Github Repository](https://github.com/KKurzawa/pacman-css)
 
